@@ -27,7 +27,7 @@ I'm looking forward to reaching Challenger in TFT and having a job as an AI Engi
 
 Well, I just want a place where I can share my personal thoughts, and also learn more about web design (with the help of Hugo ❤️).
 
-My blog is also available in both English and Vietnamese (which is work in progress).
+My blog is also available in both English and Vietnamese (which is WiP).
 
 ## My achievements (to be updated)
 
