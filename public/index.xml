@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>leeminhduc2</title>
-    <link>http://localhost:1313/</link>
+    <link>https://leeminhduc2.github.io/leeminhduc2-hugo-website/</link>
     <description>Recent content on leeminhduc2</description>
     <generator>Hugo</generator>
     <language>vi-vn</language>
     <lastBuildDate>Wed, 14 May 2025 04:02:53 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://leeminhduc2.github.io/leeminhduc2-hugo-website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://leeminhduc2.github.io/leeminhduc2-hugo-website/about/</link>
       <pubDate>Wed, 14 May 2025 04:02:53 +0700</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;I was an ordinary person who studied hard&amp;rdquo; - Richard P.Feynman&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;brief-introduction&#34;&gt;Brief introduction&lt;/h2&gt;&#xA;&lt;p&gt;I am &lt;strong&gt;leeminhduc2&lt;/strong&gt;. My full name is &lt;strong&gt;Lê Minh Đức&lt;/strong&gt;. You can call me &lt;strong&gt;Đức, Duck,&lt;/strong&gt; or &lt;strong&gt;Donald&lt;/strong&gt; which is my English name.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m currently a 2nd year student in &lt;a href=&#34;https://uet.vnu.edu.vn/&#34;&#xD;&#xA;&#xD;&#xA; &#xD;&#xA;    target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&#xD;&#xA;&gt;&#xD;&#xA;   University of Engineering and Technology - Vietnam National University&#xD;&#xA;&lt;/a&gt; .&lt;/p&gt;&#xA;&lt;p&gt;My pronouns are &lt;strong&gt;he/him&lt;/strong&gt; (Yes I&amp;rsquo;m 101% straight).&lt;/p&gt;&#xA;&lt;p&gt;I enjoy competitive programming a lot. I&amp;rsquo;ve reached Master (&amp;gt;=2100 ratings) on Codeforces as seen &lt;a href=&#34;https://codeforces.com/profile/Gwen&#34;&#xD;&#xA;&#xD;&#xA; &#xD;&#xA;    target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&#xD;&#xA;&gt;&#xD;&#xA;   here&#xD;&#xA;&lt;/a&gt; .&lt;/p&gt;</description>
+      <guid>https://leeminhduc2.github.io/leeminhduc2-hugo-website/about/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;I was an ordinary person who studied hard&amp;rdquo; - Richard P.Feynman&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;brief-introduction&#34;&gt;Brief introduction&lt;/h2&gt;&#xA;&lt;p&gt;I am &lt;strong&gt;leeminhduc2&lt;/strong&gt;. My full name is &lt;strong&gt;Lê Minh Đức&lt;/strong&gt;. You can call me &lt;strong&gt;Đức, Duck,&lt;/strong&gt; or &lt;strong&gt;Donald&lt;/strong&gt; which is my English name.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m currently a 2nd-year student in &lt;a href=&#34;https://uet.vnu.edu.vn/&#34;&#xD;&#xA;&#xD;&#xA; &#xD;&#xA;    target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&#xD;&#xA;&gt;&#xD;&#xA;   University of Engineering and Technology - Vietnam National University&#xD;&#xA;&lt;/a&gt; .&lt;/p&gt;&#xA;&lt;p&gt;My pronouns are &lt;strong&gt;he/him&lt;/strong&gt; (Yes I&amp;rsquo;m 101% straight).&lt;/p&gt;&#xA;&lt;p&gt;I enjoy competitive programming a lot. I&amp;rsquo;ve reached Master (&amp;gt;=2100 ratings) on Codeforces as seen &lt;a href=&#34;https://codeforces.com/profile/Gwen&#34;&#xD;&#xA;&#xD;&#xA; &#xD;&#xA;    target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&#xD;&#xA;&gt;&#xD;&#xA;   here&#xD;&#xA;&lt;/a&gt; .&lt;/p&gt;</description>
     </item>
     <item>
       <title>My first blog</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>https://leeminhduc2.github.io/leeminhduc2-hugo-website/posts/my-first-post/</link>
       <pubDate>Sun, 11 May 2025 20:53:14 +0700</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>https://leeminhduc2.github.io/leeminhduc2-hugo-website/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Hmm, I&amp;rsquo;m just creating this for fun, and for testing.&lt;/p&gt;</description>
     </item>
   </channel>

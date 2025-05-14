@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "D:/hugo_web_test/leeminhduc2_hugo_website",
+	"sourceRoot": "D:/hugo_web_test/leeminhduc2-hugo-website",
 	"sources": [
 		"ananke/css/main.css"
 	],
