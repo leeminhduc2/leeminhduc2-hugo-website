@@ -1,0 +1,42 @@
+baseURL = 'https://example.org/'
+languageCode = 'vi-vn'
+title = 'leeminhduc2'
+theme = 'ananke'
+[params]
+    author = "leeminhduc2"
+    description = "I'm a person who loves coding"
+    keywords = ["hugo", "static site", "blog"]
+    customCSS = ["css/custom.css"]
+    copyright = "leeminhduc2"
+    
+    
+  [params.ananke.social.follow]
+    new_window_icon = false
+    networks = [
+     "facebook",
+     "instagram",
+      
+      "github"
+    ]
+  [params.ananke.social.facebook]
+    username = "leeminhduc2.4705"
+  [params.ananke.social.instagram]
+    username = "leeminhduc.2"
+    [params.ananke.social.github]
+    username = "leeminhduc2"
+  
+[cascade]
+    featured_image = "/images/header-bg2.jpg"
+
+
+[menu]  
+    [[menu.main]]
+        name = "About me"
+        url = "/about/"
+        weight = 2
+    [[menu.main]]
+        name = "Posts"
+        url = "/posts/"
+        weight = 1
+    
+        
