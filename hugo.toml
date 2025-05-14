@@ -2,6 +2,9 @@ baseURL = 'https://leeminhduc2.github.io/leeminhduc2-hugo-website/'
 languageCode = 'vi-vn'
 title = 'leeminhduc2'
 theme = 'ananke'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 [params]
     author = "leeminhduc2"
     description = "I'm a person who loves coding"
