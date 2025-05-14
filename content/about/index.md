@@ -13,7 +13,7 @@ layout = "about"
 
 I am **leeminhduc2**. My full name is **Lê Minh Đức**. You can call me **Đức, Duck,** or **Donald** which is my English name.
 
-I'm currently a 2nd year student in [University of Engineering and Technology - Vietnam National University](https://uet.vnu.edu.vn/) .
+I'm currently a 2nd-year student in [University of Engineering and Technology - Vietnam National University](https://uet.vnu.edu.vn/) .
 
 My pronouns are **he/him** (Yes I'm 101% straight).
 
